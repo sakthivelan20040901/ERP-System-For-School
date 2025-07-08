@@ -1,24 +1,52 @@
-![school Management System](https://user-images.githubusercontent.com/61565955/133947449-ba0b8ed5-3a8e-4972-a54e-bc7f42df50e2.png)
+# School Management System - Java GUI
 
-![Build Status](https://travis-ci.org/Payum/Payum.png?branch=master)
+This project is a Java Graphical User Interface application for managing school operations, including student, employee, class, and activity management, as well as generating statistics.
 
-Java Graphical User Interface application for **School Management System**
+## Features
 
-1) Student management
-2) Employee management
-3) Class management
-4) Management of activities / courses
-5) Generate statistics
+- Add, update, and delete student records
+- Manage employee (teacher/staff) information
+- Organize classes and assign students
+- Manage school activities and courses
+- Generate and display statistics about students and staff
+- Simple command-line interface for easy interaction
+- User-friendly prompts for data entry
+- Modular code structure for easy maintenance and extension
 
-# Tools used:
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+## Modules
 
-# Acknowledgements:
-The work in this project was completed as part of the curriculum for [Polytechnic School of Sousse](https://www.polytecsousse.tn/)
+- **Student Management:** Register, update, and remove students, and view student lists.
+- **Employee Management:** Add, update, and remove staff or teachers.
+- **Class Management:** Create classes and assign students.
+- **Activity Management:** Organize and manage school activities and courses.
+- **Statistics:** Generate reports and statistics about students, staff, and activities.
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/61565955/133947540-cf5ff61b-8935-413b-b7ea-25289efe958e.png" alt="logo-polytech" style="max-width: 100%;">
-</p>
+## How to Setup and Run
+
+### Prerequisites
+
+- Java JDK 8 or higher
+- Git
+
+### Steps
+
+1. **Clone the repository:**
+    ```sh
+    git clone https://github.com/sakthivelan20040901/ERP-System-For-School.git
+    cd ERP-System-For-School
+    ```
+
+2. **Compile the project:**
+    ```sh
+    cd src
+    javac com/garderie/*.java
+    ```
+
+3. **Run the application:**
+    ```sh
+    java com.garderie.Main
+    ```
+
+---
+
+**This project was developed by Sakthivelan. No other data is
