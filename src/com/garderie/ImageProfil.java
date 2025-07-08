@@ -1,5 +1,5 @@
 package com.garderie;
-
+// Last updated: July 8, 2025
 public class ImageProfil extends fileHandler {
     /*
     * this is preaty usless at this point but

@@ -1,5 +1,5 @@
 package com.garderie;
-
+// Last updated: July 8, 2025
 public class Activite {
     protected static int count = 0; // conteur
     protected int id;

@@ -1,6 +1,6 @@
 package com.garderie;
 
-
+// Last updated: July 8, 2025
 import java.util.Date;
 import java.util.Scanner;
 
