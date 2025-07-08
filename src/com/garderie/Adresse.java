@@ -1,5 +1,7 @@
 package com.garderie;
 
+// Last updated: July 8, 2025
+
 import java.util.Scanner;
 
 public class Adresse {
@@ -60,7 +62,7 @@ public class Adresse {
 
     public void show(){
         System.out.printf(
-                "Adress: %s, rue %s %s %s, %s%n",
+                "Adress: %s, rue %s %s, %s %s%n",
                 this.numeroRue, this.rue, this.codePostal, this.ville, this.gouvernorat
         );
     }
