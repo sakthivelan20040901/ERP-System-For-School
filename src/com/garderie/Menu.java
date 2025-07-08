@@ -1,5 +1,5 @@
 package com.garderie;
-
+// Last updated: July 8, 2025
 import java.util.Scanner;
 
 public class Menu {
